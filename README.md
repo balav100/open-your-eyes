@@ -247,9 +247,3 @@ Interested Roles:
 GitHub: https://github.com/yourusername
 
 LinkedIn: https://linkedin.com/in/yourprofile
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
