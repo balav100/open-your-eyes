@@ -244,6 +244,6 @@ Interested Roles:
 - AI Automation Engineer
 - Generative AI Engineer
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/balav100
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/Balasubramaniam V
